@@ -1,0 +1,6 @@
+{
+  "name": "yarn-issue-4440",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
